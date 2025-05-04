@@ -1,1 +1,0 @@
-export {default as afridata_icon} from "./afridata.png";

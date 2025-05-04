@@ -40,25 +40,25 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "03/01/2016",
-                        "end": "06/01/2018"
+                        "start": "06/06/2021",
+                        "end":   "01/01/2022"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Backend** Developer",
-                            "info": "Sapphire Studio",
+                            "title": "**Full-Stack** Engineer",
+                            "info": "ARCSSTEE-E",
                             "text": "Developed and maintained scalable backend systems for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
-                            "tags": ["PHP", "MySQL", "Laravel"]
+                            "tags": ["PHP", "MySQL", "Laravel", "Remote Sensing", "Satellite Communication", "GIS", "Spatial Datases", "Google Earth Engine"]
                         },
                         "es": {
                             "title": "Desarrollador **Backend**",
-                            "info": "Sapphire Studio",
+                            "info": "ARCSSTEE-E",
                             "text": "Desarrollé y mantuve sistemas backend escalables para varios clientes, optimizando el rendimiento de la base de datos e implementando APIs RESTful para mejorar la funcionalidad de la aplicación.",
                             "tags": null
                         },
                         "fr": {
                             "title": "Développeur **Backend**",
-                            "info": "Sapphire Studio",
+                            "info": "ARCSSTEE-E",
                             "text": "Développé et maintenu des systèmes backend évolutifs pour divers clients, optimisant les performances de la base de données et implémentant des APIs RESTful pour améliorer la fonctionnalité de l'application.",
                             "tags": null
                         },
