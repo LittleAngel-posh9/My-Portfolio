@@ -8,7 +8,6 @@ function Form({children, id, submitLabel, submitIcon, onSubmit}) {
 
     submitIcon = submitIcon || 'fa-solid fa-circle'
     submitLabel = submitLabel || getString('submit')
-
     return (
         <form id={id} onSubmit={onSubmit} className={`mt-4 pt-0 pt-xl-2`}>
             <Row>
