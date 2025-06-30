@@ -5,13 +5,13 @@
 
     "preloader": {
         "enabled": true,
-        "title": "Michael's <b>Portfolio</b>",
-        "subtitle": "by Michael Adetona"
+        "title": "Oluwaseun's <b>Portfolio</b>",
+        "subtitle": "by Oluwaseun Akinwole"
     },
 
     "profile": {
         "name": "Mark Choi",
-        "stylizedName": "<strong>Michael **Adetona**</strong>",
+        "stylizedName": "<strong>Oluwaseun **Akinwole**</strong>",
         "logoUrl": "images/svg/logo.svg",
         "profilePictureUrl": "images/pictures/avatar.jpeg",
 
