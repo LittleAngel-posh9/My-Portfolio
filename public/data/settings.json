@@ -16,7 +16,7 @@
         "profilePictureUrl": "images/pictures/avatar.jpeg",
 
         "locales": {
-            "en": {"role": "Full Stack Engineer"},
+            "en": {"role": "Product Manger"},
             "es": {"role": "Desarrollador Web"},
             "fr": {"role": "Développeur Web"},
             "ko": {"role": "웹 개발자"}

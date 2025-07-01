@@ -55,9 +55,9 @@
 
             "items": [
                 {
-                    "value": "+234 (90) 230-11622",
+                    "value": "+234 (90) 605-95582",
                     "links": [
-                        {"href": "tel:+2349023011622"}
+                        {"href": "tel:+23490605955582"}
                     ],
                     "icon": {
                         "img": null,
@@ -89,9 +89,9 @@
                 },
 
                 {
-                    "value": "@CyberLordX7",
+                    "value": "Oluwaseun Akinwole",
                     "links": [
-                        {"href": "https://linkedin.com"}
+                        {"href": "linkedin.com/in/oluwaseunakinwole"}
                     ],
                     "icon": {
                         "img": null,
@@ -116,37 +116,9 @@
                     "locales": {
                         "en": {"title": "Facebook"}
                     }
-                },
-
-                {
-                    "value": "@CyberLordX7",
-                    "links": [
-                        {"href": "https://instagram.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-instagram",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Instagram"}
-                    }
-                },
-
-                {
-                    "value": "@CyberLordX7",
-                    "links": [
-                        {"href": "https://tiktok.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-tiktok",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "TikTok"}
-                    }
                 }
+
+                
             ]
         }
     ]
