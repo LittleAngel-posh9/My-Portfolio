@@ -71,7 +71,9 @@
                         "faColors": {"bg": null, "fill": null}
                     },
 
-                
+                "links": [
+                        {"faIcon": "fa fa-link", "href": "https://drive.google.com/file/d/1Lj1Jk0x34XYJUJXIT-B9nb-RsT_CH0Uc/view?usp=sharing"}
+                    ],
 
                     "media": {
                         "youtubeVideo": "",
@@ -112,7 +114,9 @@
                         "faColors": {"bg": null, "fill": null}
                     },
 
-                 
+                     "links": [
+                        {"faIcon": "fa fa-link", "href": "https://drive.google.com/file/d/1mYMJyPr5kNKIpr202IB4waID-LOacxAT/view?usp=sharing"}
+                    ],
 
                     "media": {
                         "youtubeVideo": "",
@@ -150,11 +154,14 @@
                     "categoryId": "apps",
                     "icon": {
                         "img": "images/pictures/download.jpg",
-                        "fa": "",
+                        "fa": "fa fa-link",
                         "faColors": {"bg": null, "fill": null}
                     },
 
-                  
+              "links": [
+                        {"faIcon": "fa fa-link", "href": "https://drive.google.com/file/d/1Lj1Jk0x34XYJUJXIT-B9nb-RsT_CH0Uc/view?usp=sharing"}
+                    ],
+
 
                     "media": {
                         "youtubeVideo": "",
@@ -198,7 +205,9 @@
                         "faColors": {"bg": null, "fill": null}
                     },
 
-                    
+                    "links": [
+                        {"faIcon": "fa fa-link", "href": "https://drive.google.com/file/d/1QS-KUCEJUCyi9QAqvqDUMKiB7P57M5v-/view?usp=sharing"}
+                    ],
 
                     "media": {
                         "youtubeVideo": null
