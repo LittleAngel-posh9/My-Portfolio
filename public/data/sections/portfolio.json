@@ -51,7 +51,7 @@
                         "ko": {"singular": "웹사이트", "plural": "웹"}
                     }
                 },
-                {
+                { 
                     "id": "utilities",
                     "locales": {
                         "en": {"singular": "Utility", "plural": "Utilities"},
